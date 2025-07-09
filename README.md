@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Mark Krustans!
 
-🎓 I'm a Computer Science student passionate about building clean, user-focused applications.  
-💻 I enjoy working with **Java**, **Angular**, **HTML/CSS**, **JavaScript**.  
-🌱 Currently learning **Spring Boot**, **Angular**, and **software architecture**.  
-📚 My GitHub is a journal of my progress and projects as I grow into a full-stack developer.
+🎓 I'm a Computer Science student and an aspiring full-stack developer with big ambitions and a strong drive to learn everything needed to become a professional in the field.
+
+💻 I currently work with technologies like Java, Spring Boot, Angular, HTML/CSS, JavaScript, and both relational and NoSQL databases (SQL, MongoDB). I'm especially focused right now on mastering Angular for the frontend and Spring Boot for the backend.
+
+🚀 As I grow, I'm expanding my skill set beyond just coding — soon I’ll be diving into tools like Docker and Kubernetes to better understand deployment and scalability in real-world applications.
+
+📚 This GitHub is my personal space to document my journey, share projects, and continuously improve as a developer.
 
 ---
 
