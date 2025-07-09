@@ -15,13 +15,12 @@
 <img src="https://github.com/user-attachments/assets/61e68504-8642-40c3-953f-a026667c0e55" width="150" height="150"/>
 <img src="https://github.com/user-attachments/assets/af1ce024-88fd-4c26-b426-c407a029842e" width="100" height="100"/>
 <img src="https://github.com/user-attachments/assets/8107860c-ed2c-45db-a43e-bfb558ea180b" width="200" height="200"/>
-<img src="https://github.com/user-attachments/assets/ac3890fa-d809-4efc-8aba-d50275062bc6" width="200" height="200"/>
+<img src="https://github.com/user-attachments/assets/ac3890fa-d809-4efc-8aba-d50275062bc6" width="100" height="100"/>
 
 ---
 
 ## 📬 Let's Connect
 
 - 📧 Email: mkrustans@gmail.com 
-- 🌍 Portfolio: [yourportfolio.link](https://yourportfolio.link)
+- 🌍 Portfolio: [https://m1rkk.github.io/PortfolioWebsite/] (old portfolio website)
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
